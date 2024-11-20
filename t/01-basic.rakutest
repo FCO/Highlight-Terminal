@@ -1,0 +1,6 @@
+use Test;
+use Highlight::Terminal;
+
+pass "replace me";
+
+done-testing;
