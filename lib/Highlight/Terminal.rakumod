@@ -143,7 +143,7 @@ Highlight::Terminal is a way to highlight Raku code using C<RakuAST> and termina
 
 =head1 AUTHOR
 
-Fernando Corrêa de Oliveira <fernando.correa@humanstate.com>
+Fernando Corrêa de Oliveira <fco@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
