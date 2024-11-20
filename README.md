@@ -21,6 +21,13 @@ DESCRIPTION
 
 Highlight::Terminal is a way to highlight Raku code using `RakuAST` and terminal colors.
 
+TODO
+====
+
+  * Improve default theme
+
+  * Make layout customisable
+
 AUTHOR
 ======
 

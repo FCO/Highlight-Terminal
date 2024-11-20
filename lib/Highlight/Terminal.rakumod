@@ -136,6 +136,11 @@ say Q"my $bla = 42; for $bla/2 .. $bla { .say }".AST.DEPARSE: Highlight::Termina
 
 Highlight::Terminal is a way to highlight Raku code using C<RakuAST> and terminal colors.
 
+=head1 TODO
+
+=item Improve default theme
+=item Make layout customisable
+
 =head1 AUTHOR
 
 Fernando Corrêa de Oliveira <fernando.correa@humanstate.com>
